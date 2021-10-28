@@ -3,7 +3,7 @@ All command List
 
 ### HELP MENU 🔰 
 
-![123](https://media.discordapp.net/attachments/89838715https://media.discordapp.net/attachments/898387150729535528/903134999346282516/unknown.png?width=313&height=194)
+![123](https://media.discordapp.net/attachments/898387150729535528/903128803688218664/unknown.png?width=437&height=241)
 
 
 
