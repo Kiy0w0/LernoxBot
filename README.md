@@ -3,8 +3,8 @@ All command List
 
 🎵 Music [44]
 
-`Add Previous`
+> `Add Previous`
 
-`Add Similar`
+> `Add Similar`
 
-`Autoplay`
+> `Autoplay`
