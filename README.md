@@ -11,4 +11,4 @@ All command List
 
 🔰 INFO [4]
 
-[123](https://media.discordapp.net/attachments/898387150729535528/903134729379905556/unknown.png?width=126&height=45)
+![123](https://media.discordapp.net/attachments/898387150729535528/903134729379905556/unknown.png?width=126&height=45)
