@@ -4,5 +4,7 @@ All command List
 🎵 Music [44]
 
 `Add Previous`
+
 `Add Similar`
+
 `Autoplay`
