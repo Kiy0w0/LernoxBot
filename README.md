@@ -1,5 +1,6 @@
-<h1 align="center"><img src="https://github.com/CarameloSz/KannaMusic/blob/main/assets/logo.gif" width="30px"> KannaMusic <img src="https://github.com/CarameloSz/KannaMusic/blob/main/assets/logo.gif" width="30px"></h1>
+<h1 align="center"><img src="https://github.com/CarameloSz/KannaMusic/blob/main/assets/logo.gif" width="30px"> Official Of Lernox Bot <img src="https://github.com/CarameloSz/KannaMusic/blob/main/assets/logo.gif" width="30px"></h1>
 <p align="center"></p>
+
 ### Lernox Bot
 A JavaScript command Music Bot 
 
