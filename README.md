@@ -20,6 +20,7 @@ i Will Release My Code in 10K Server `Maybe`
 - Update The SongOfTheDay
 - Updated Help Command!
 
+### You Can Invite Lernox ⬇️
 <a href="https://top.gg/bot/708931649265598534">
   <img src="https://top.gg/api/widget/708931649265598534.svg">
 </a>
